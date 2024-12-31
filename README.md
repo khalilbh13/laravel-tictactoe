@@ -7,6 +7,25 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# Laravel Tic-Tac-Toe
+
+Ce projet est une application web permettant de jouer au Morpion (Tic-Tac-Toe) en Laravel.  
+Chaque partie est enregistrée en base de données, et un leaderboard permet de consulter l’historique des parties.
+
+## 1. Prérequis
+
+- PHP 8+  
+- Composer  
+- Une base de données (MySQL, SQLite, PostgreSQL, etc.)  
+- (Optionnel) Git si vous souhaitez cloner le projet et contribuer.
+
+## 2. Installation
+
+1. **Cloner** ce dépôt (ou télécharger le ZIP) :
+   ```bash
+   git clone https://github.com/khalilbh13/laravel-tictactoe.git
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -64,3 +83,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
